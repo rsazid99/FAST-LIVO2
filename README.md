@@ -100,7 +100,7 @@ For well-known reasons, ROS2 does not have a direct global parameter server and 
 ```bash
 # Different from the one used in fast-livo1
 cd fast_ws/src
-git clone https://github.com/Robotic-Developer-Road/rpg_vikit.git 
+git clone https://github.com/rsazid99/rpg_vikit.git 
 ```
 
 Thanks to the following repositories for the code reference:
